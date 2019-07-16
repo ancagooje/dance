@@ -5,7 +5,7 @@ contact_entries: []
 ---
 We’d love to get in touch with you !
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">How can I send a message?</h3>
 
 Email us:  ancadances@gmail.com
 
